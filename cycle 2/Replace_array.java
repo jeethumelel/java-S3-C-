@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Replacing_elements_array 
+class Replace_array 
 {
     public static void main(String args [])
     {
